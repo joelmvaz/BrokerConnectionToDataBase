@@ -7,9 +7,9 @@ public class JDBC {
 
     public static void connect() {
         //"jdbc:postgresql://localhost:5432/testdb"
-        String host = "jdbc:postgresql://db.fe.up.pt:5432/up201502825";
-        String username = "up201502825";
-        String password = "VkgSgU9P8";
+        String host = "jdbc:postgresql://db.fe.up.pt:5432/ee11271";
+        String username = "ee11271"; //"up201502825";
+        String password = "wooper_30"; //"VkgSgU9P8";
 
         try {
             Class.forName("org.postgresql.Driver");

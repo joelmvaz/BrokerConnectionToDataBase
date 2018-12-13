@@ -7,10 +7,19 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$USER_HOME$/Downloads/mfz-rxtx-2.2-20081207-linux-x86_64/mfz-rxtx-2.2-20081207-linux-x86_64/RXTXcomm.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Documents/Simple/postgresql-42.2.2.jre6.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
