@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="librxtxSerial">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Downloads/librxtxSerial.jnilib" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>

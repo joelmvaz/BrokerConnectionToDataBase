@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BrokerConnectionToDataBase.iml" filepath="$PROJECT_DIR$/BrokerConnectionToDataBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BrokerJava.iml" filepath="$PROJECT_DIR$/BrokerJava.iml" />
     </modules>
   </component>
 </project>
